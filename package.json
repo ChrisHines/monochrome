@@ -1,0 +1,22 @@
+{
+    "name": "monochrome",
+    "displayName": "Monochrome",
+    "description": "Color theme with bright code and dim comments",
+    "version": "0.1.0",
+    "publisher": "ChrisHines",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monochrome",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monochrome-color-theme.json"
+            }
+        ]
+    }
+}
