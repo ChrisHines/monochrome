@@ -4,6 +4,9 @@
     "description": "Color theme with bright code and dim comments",
     "version": "0.1.0",
     "publisher": "ChrisHines",
+    "repository": {
+        "url": "https://github.com/ChrisHines/monochrome"
+    },
     "engines": {
         "vscode": "^1.22.0"
     },
